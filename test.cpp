@@ -14,5 +14,7 @@ int main() {
     // 소수점 이하 두 자리까지 출력
     std::cout << std::fixed << std::setprecision(2) << roundedNumber << std::endl;
 
+    // 추가 부분
+    
     return 0;
 }
